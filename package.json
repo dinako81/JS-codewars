@@ -1,0 +1,23 @@
+{
+  "name": "13-js-codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "reversedstrings": "nodemon ./js/reversedstrings.js",
+    "thirdangle": "nodemon ./js/thirdangle.js",
+    "invertvalues": "nodemon ./js/invertvalues.js",
+    "isiteven": "nodemon ./js/isiteven.js",
+    "multiply": "nodemon ./js/multiply.js", 
+    "reverses": "nodemon ./js/reverses.js", 
+    "reversew": "nodemon ./js/reversew.js", 
+    "simplemultiplication": "nodemon ./js/simplemultiplication.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dina <https://github.com/dinako81>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
