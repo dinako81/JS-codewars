@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "convertnumtostring": "nodemon ./js/convertnumtostring.js",
+    "hydrated": "nodemon ./js/hydrated.js",
     "differenceinage": "nodemon ./js/differenceinage.js",
     "century": "nodemon ./js/century.js",
     "stringtonumber": "nodemon ./js/stringtonumber.js",
