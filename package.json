@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  
+    "differenceinage": "nodemon ./js/differenceinage.js",
+    "century": "nodemon ./js/century.js",
+    "stringtonumber": "nodemon ./js/stringtonumber.js",
     "calculatebmi": "nodemon ./js/calculatebmi.js",
     "oppositumber": "nodemon ./js/oppositumber.js",
     "areaorperimeter": "nodemon ./js/areaorperimeter.js",
