@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "volumeofacuboid": "nodemon ./js/volumeofacuboid.js",
     "convertnumtostring": "nodemon ./js/convertnumtostring.js",
     "hydrated": "nodemon ./js/hydrated.js",
     "differenceinage": "nodemon ./js/differenceinage.js",
