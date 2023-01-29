@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "function2": "nodemon ./js/function2.js",
     "addlength": "nodemon ./js/addlength.js",
     "volumeofacuboid": "nodemon ./js/volumeofacuboid.js",
     "convertnumtostring": "nodemon ./js/convertnumtostring.js",
