@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+   
+    "makeuppercase": "nodemon ./js/ makeuppercase.js",
     "areaorperimeter": "nodemon ./js/areaorperimeter.js",
-
     "superdupereasy": "nodemon ./js/superdupereasy.js",
     "function2": "nodemon ./js/function2.js",
     "addlength": "nodemon ./js/addlength.js",
