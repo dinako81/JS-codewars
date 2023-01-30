@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "": "nodemon ./js/.js",
-    "": "nodemon ./js/.js",
+    "youareasquare": "nodemon ./js/youareasquare.js",
+    "dragons": "nodemon ./js/dragons.js",
     "getplanetbyid": "nodemon ./js/getplanetbyid.js",
     "remexmarks": "nodemon ./js/remexmarks.js",
     "getthemeanofarray": "nodemon ./js/getthemeanofarray.js",
