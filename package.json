@@ -5,7 +5,7 @@
   "scripts": {
     "": "nodemon ./js/.js",
     "": "nodemon ./js/.js",
-    "": "nodemon ./js/.js",
+    "getplanetbyid": "nodemon ./js/getplanetbyid.js",
     "remexmarks": "nodemon ./js/remexmarks.js",
     "getthemeanofarray": "nodemon ./js/getthemeanofarray.js",
     "makeuppercase": "nodemon ./js/makeuppercase.js",
