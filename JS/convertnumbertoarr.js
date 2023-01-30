@@ -10,15 +10,18 @@ console.clear()
 
 
 function digitize(n) {
-    // let x = n.toString();
-    let arr = [];
+    let n1 = n.toString()
+    let revStr = [ ];   
 
-    for (let i = n.length; i >= 0; i--) {
-        arr += n[i];
+    for (let i = n1.length; i >= 0; i--) {
+        revStr += n1[i];
+        console.log(i, '-->', n1[i], revStr)
     }
 
-return [arr];
+return revStr;
 
 }
 
-console.log(digitize(35231));
+console.log(digitize([35231]));
+
+// kaip panaikinti undefined ir sudeti kableli?
