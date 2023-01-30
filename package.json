@@ -14,7 +14,7 @@
     "function2": "nodemon ./js/function2.js",
     "addlength": "nodemon ./js/addlength.js",
     "volumeofacuboid": "nodemon ./js/volumeofacuboid.js",
-    "convertnumtostring": "nodemon ./js/convertnumtostring.js",
+    "convertnumbertoarr": "nodemon ./js/convertnumbertoarr.js",
     "hydrated": "nodemon ./js/hydrated.js",
     "differenceinage": "nodemon ./js/differenceinage.js",
     "century": "nodemon ./js/century.js",

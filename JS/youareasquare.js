@@ -20,12 +20,16 @@ console.clear()
 // 25  =>  true
 // 26  =>  false
 
-let isSquare = function(n) {
-    let x = 0;
-    if (n = x**2 && n > 0 && n !== 0) {
-      return (true);
-    }
-   return (false);
-  }
+// let isSquare = function(n) {
+//     let x = 0;
+//     if (n = x**2 && n > 0 && n !== 0) {
+//       return (true);
+//     }
+//    return (false);
+//   }
 
-  console.log(function(16));
+//   console.log(function(16));
+
+  console.log ('------------');
+
+  
