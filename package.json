@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "shortestword": "nodemon ./js/shortestword.js",
+    "disemvoweltrolls": "nodemon ./js/disemvoweltrolls.js",
     "youareasquare": "nodemon ./js/youareasquare.js",
     "dragons": "nodemon ./js/dragons.js",
     "getplanetbyid": "nodemon ./js/getplanetbyid.js",
