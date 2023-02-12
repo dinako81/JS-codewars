@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "removestringspaces": "nodemon ./js/removestringspaces.js",
+    "double": "nodemon ./js/double.js",
+    "count": "nodemon ./js/count.js",
     "shortestword": "nodemon ./js/shortestword.js",
     "disemvoweltrolls": "nodemon ./js/disemvoweltrolls.js",
     "youareasquare": "nodemon ./js/youareasquare.js",
