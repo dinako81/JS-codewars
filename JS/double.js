@@ -8,11 +8,16 @@ console.clear()
 
 // [1, 2, 3] --> [2, 4, 6]
 
-const marks = [1, 2, 3]
+const numbers = [1, 2, 3]
+const doubles = numbers.map((num) => num * 2); //geras
 
-function double(x){
-     return x * 2
-}
-const marks2x = marks.map(double)
+console.log(doubles)
 
-console.log(marks2x)
+
+
+// function double(x){
+
+//      return maps.map((num) => num * 2);
+   
+// }
+// console.log(double())

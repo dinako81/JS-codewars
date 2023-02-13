@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "sumofnumbers": "nodemon ./js/sumofnumbers.js",
+    "isitnumber": "nodemon ./js/isitnumber.js",
+    "squaresum": "nodemon ./js/squaresum.js",
     "removestringspaces": "nodemon ./js/removestringspaces.js",
     "double": "nodemon ./js/double.js",
     "count": "nodemon ./js/count.js",

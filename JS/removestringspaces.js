@@ -1,4 +1,3 @@
-const nodemon = require("nodemon")
 
 console.clear()
 // Remove String Spaces
@@ -9,4 +8,6 @@ function noSpace(x){
     return x.split(' ').join('')
   }
 
-  console.log(noSpace('labas rytas lietuva'))
+  console.log(noSpace('labas rytas lietuva'));
+
+
