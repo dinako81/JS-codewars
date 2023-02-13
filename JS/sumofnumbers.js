@@ -12,10 +12,22 @@
 // (-1, 0) --> -1 (-1 + 0 = -1)
 // (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
 
+
+
 function getSum(a, b)
 {
-   if ( a === b) {
+      if ( a === b) {
      return a 
    }
-  return a + b
+  let array = [a, b];
+  let max = Math.max(array);
+  let min = Math.min(array);
+  return (max - min) / 2;
 }
+
+console.log(getSum(1, 0), '=>', 1);
+console.log(getSum(1, 2), '=>', 3);
+console.log(getSum(0, 1), '=>', 1);
+console.log(getSum(1, 1), '=>', 1);
+console.log(getSum(-1, 0), '=>', -1);
+console.log(getSum(-1, 2), '=>', -1);
