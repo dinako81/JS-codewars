@@ -32,4 +32,13 @@ console.clear()
 
   console.log ('------------');
 
+  var isSquare = function(n) {
+    let x = 0;
+    if (n = x ** 2 && n > 0 && n === 0) {
+      return (true);
+    }
+   return (false);
+  }
+ console.log()
+
   

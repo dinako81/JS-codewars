@@ -8,10 +8,10 @@ console.clear()
 
 // [1, 2, 3] --> [2, 4, 6]
 
-const numbers = [1, 2, 3]
-const doubles = numbers.map((num) => num * 2); //geras
+// const numbers = [1, 2, 3]
+// const doubles = numbers.map((num) => num * 2); //geras
 
-console.log(doubles)
+// console.log(doubles)
 
 
 
@@ -21,3 +21,15 @@ console.log(doubles)
    
 // }
 // console.log(double())
+
+const x = [1, 2, 3, 4 ];
+
+function double(x){
+  x  *= 2;
+ return x;
+
+}
+
+
+
+    

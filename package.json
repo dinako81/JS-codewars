@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "doublechar": "nodemon ./js/doublechar.js",
+    "summixedarray": "nodemon ./js/summixedarray.js",
+    "sumofpositive": "nodemon ./js/sumofpositive.js",
     "sumofnumbers": "nodemon ./js/sumofnumbers.js",
     "isitnumber": "nodemon ./js/isitnumber.js",
     "squaresum": "nodemon ./js/squaresum.js",

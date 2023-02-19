@@ -1,6 +1,6 @@
+console.clear()
 // addlength
 
-const balanced = require("balanced-match");
 
 // https://www.codewars.com/kata/559d2284b5bb6799e9000047/train/javascript
 
@@ -13,27 +13,8 @@ const balanced = require("balanced-match");
 
 // stringa islaisinam atskirais zodziais, poto prie keikvieno prikabiname str.length
 
+
 function addLength(str) {
-  
-    //   let text2 = str.length;
-      
-      
-    //   let str = str + (' ') + str.length;
-      
-    //   let textlength = str.length();
-    //   let inputsymbol = textlength.push (' ')
-    //   let str = str + " " + textlength;
-    //   .str.concat('', str.length);
-      
-      return str.slice(' ') + str.addLength;
-    
-    }
-    
-    console.log('apple ban');
-    console.log(addLength);
-
-   
-
-// text = "Hello" + " " + "World!";
-// text = "Hello".concat(" ", "World!");
+  return arr = str.split(' ').map((x) => x + " " + x.length);
+  }
 
