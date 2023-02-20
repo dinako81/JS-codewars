@@ -15,21 +15,12 @@ console.clear()
 
 
 
-// function double(x){
-
-//      return maps.map((num) => num * 2);
-   
-// }
-// console.log(double())
-
-const x = [1, 2, 3, 4 ];
-
-function double(x){
-  x  *= 2;
- return x;
-
+function maps(x){ 
+  return arr2 = x.map((num) => num * 2);
 }
 
 
+//more optimal
+maps = x => x.map(e => e * 2);
 
     

@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "multiplies": "nodemon ./js/multiplies.js",
+    "filterthenumber": "nodemon ./js/filterthenumber.js",
+    "whatisbetween": "nodemon ./js/whatisbetween.js",
     "returnstring": "nodemon ./js/returnstring.js",
     "countsum": "nodemon ./js/countsum.js",
     "doublechar": "nodemon ./js/doublechar.js",
